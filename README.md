@@ -1,2 +1,0 @@
-# bayou-to-brooklyn
-blog
